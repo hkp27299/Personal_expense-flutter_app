@@ -1,4 +1,4 @@
-# expenses
+# About app
 
 A new Flutter project.For manageing your personal expenses.This app will show daily total of spend money 
 
